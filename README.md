@@ -66,7 +66,7 @@ Nobody likes stream lag. These mods work together to ensure your game runs like 
 
 - **FerriteCore** - Drastically reduces the memory (RAM) your game needs.
 
-- ImmediatelyFast & RenderScale - Under-the-hood tweaks for lightning-fast rendering.
+- **ImmediatelyFast & RenderScale** - Under-the-hood tweaks for lightning-fast rendering.
 (Note: CreativeCore is also included as a required library for some of our amazing mods!)
 
 ### 🍃 Hand-Picked Resource Packs
